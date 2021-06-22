@@ -6,8 +6,8 @@
     document.write('<link href="https://cdn.bootcdn.net/ajax/libs/izitoast/1.4.0/css/iziToast.min.css" rel="stylesheet">');
     document.write('<script type="text/javascript" charset="utf-8" src="https://cdn.bootcdn.net/ajax/libs/izitoast/1.4.0/js/iziToast.min.js"></script>');
 })();
-const WSURL= "ws://127.0.0.1:9090/api/connect?u-id=";
-const APIURL= "http://127.0.0.1:9090/api/";
+const WSURL= "ws://47.102.133.116:9090/api/connect?u-id=";
+const APIURL= "http://47.102.133.116:9090/api/";
 //通知记录页码
 var NowPage = 1;
 var PageStatus = 1;
